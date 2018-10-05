@@ -1,0 +1,4 @@
+.env/*
+.git/*
+www/*
+requirements.txt
